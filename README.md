@@ -6,4 +6,4 @@
 - 🙇‍♂️ I like solving coding problems on [LeetCode](https://leetcode.com/u/parashardevesh/)
 - 📫 Email = deveshdp31oct@gmail.com
 - 🧑🏻‍💼 Let's connect: LinkedIn - https://www.linkedin.com/in/devesh-parashar/
-- ⚡ Fun fact: I am 3100 rated in puzzles on [chess.com](https://www.chess.com/stats/puzzles/deveshparashar) & 2000+ in Rapid and Blitz. 
+- ⚡ Fun fact: I am 3100 rated in puzzles on [chess.com](https://www.chess.com/stats/puzzles/deveshparashar) & 2300+ in Blitz.
